@@ -9,6 +9,7 @@ This projects is created with React and it uses Breaking Bad API. With this app 
 ## Technologies
 Project is created with:
 * React
+* React Router
 * Styled components
 * Rick and Morty API
 	
