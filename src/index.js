@@ -1,10 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import Root from './views/Root';
+import React from "react";
+import ReactDOM from "react-dom";
+import DataProvider from "./components/providers/DataProvider";
+import Root from "./views/Root";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Root />
+    <DataProvider>
+      <Root />
+    </DataProvider>
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById("root")
 );
