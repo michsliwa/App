@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is created with React and it uses Rick and Morty API. With this app user can find characters & info about them, list of seasons and list of episodes.
+This project is created with React and it uses Rick and Morty API. With this app user can find characters & info about them and list of episodes.
 	
 ## Technologies
 Project is created with:
